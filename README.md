@@ -1,2 +1,2 @@
-# PythonPractice
-Repo containing algorithms &amp; ds in python
+# PythonPractise
+Short scripts to hone my python skills
